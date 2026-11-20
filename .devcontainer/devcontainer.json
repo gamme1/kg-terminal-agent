@@ -1,0 +1,1 @@
+{"customizations":{"codespaces":{"openFiles":["README.md"]}},"forwardPorts":[5000],"image":"mcr.microsoft.com/devcontainers/python:3.12","name":"KG Terminal Agent","postCreateCommand":"bash scripts/install_tools.sh"}
